@@ -14,7 +14,7 @@ How to run:
 
 1. Download the input files:
 - Train.csv
-- Test.csv
+- Test_input.csv
 - Rainfall.csv
 - PublicHoliday.csv
 - Typhoon.csv
@@ -27,5 +27,5 @@ How to run:
    training and testing datasets, and further continue the session 
    'Selected Best Model'.
    
-3. Output file: test7.csv
+3. Output file: test.csv
 
